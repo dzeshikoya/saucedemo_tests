@@ -1,1 +1,2 @@
-# saucedemo_tests
+# Код теста:
+saucedemo_tests/src/test/java/SaucedemoTest.java
